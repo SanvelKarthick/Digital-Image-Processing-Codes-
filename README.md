@@ -7,8 +7,8 @@ These Codes help you learn the basics of digital image processing
     - Color to Negative Image
     - Color to Grayscale Image
     - Grayscale to Negative Image
-    - Color to RGB Separation Image
  * Image Restoration
+    - Color to RGB Separation Image
     - Foreground Image Separation
     - Merge Foreground & Background Image
     - Image Sharpening using 1st Order Derivative
